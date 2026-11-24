@@ -1,0 +1,12 @@
+# Cache & Environments
+.mypy_cache/
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.env
+*.pyc
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+.DS_Store
